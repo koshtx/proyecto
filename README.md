@@ -1,3 +1,3 @@
 proyecto
 ========
-this is a modificated.
+this file was modificated.
